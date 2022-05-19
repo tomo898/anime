@@ -1,3 +1,8 @@
-# animeaaaa
+# anime
 
-##aaaa
+## 概要
+誰でも親しみやすいシンプルなデザインのアニメレビューサイト
+
+# データベース
+データベース : anime
+phpMyAdminに上のデータベースを作り、anime.sqlを参照
